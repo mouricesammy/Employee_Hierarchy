@@ -1,0 +1,17 @@
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/bin/Debug/netcoreapp2.2/TestEmployees.deps.json
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/bin/Debug/netcoreapp2.2/TestEmployees.runtimeconfig.json
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/bin/Debug/netcoreapp2.2/TestEmployees.runtimeconfig.dev.json
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/bin/Debug/netcoreapp2.2/TestEmployees.dll
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/bin/Debug/netcoreapp2.2/TestEmployees.pdb
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/bin/Debug/netcoreapp2.2/EmployeeLibrary.dll
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/bin/Debug/netcoreapp2.2/EmployeeLibrary.pdb
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.csprojAssemblyReference.cache
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.csproj.CoreCompileInputs.cache
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.AssemblyInfoInputs.cache
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.AssemblyInfo.cs
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.csproj.CopyComplete
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.dll
+/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.pdb

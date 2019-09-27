@@ -1,0 +1,9 @@
+/Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/bin/Debug/netstandard2.0/EmployeeLibrary.deps.json
+/Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/bin/Debug/netstandard2.0/EmployeeLibrary.pdb
+/Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.csproj.CoreCompileInputs.cache
+/Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.AssemblyInfoInputs.cache
+/Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.AssemblyInfo.cs
+/Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.csproj.CopyComplete
+/Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.dll
+/Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.pdb
+/Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.csprojAssemblyReference.cache
