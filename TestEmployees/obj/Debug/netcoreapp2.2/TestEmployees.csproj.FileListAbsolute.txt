@@ -15,3 +15,22 @@
 /Users/evamaina/Projects/EmployeeLibrary/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.csproj.CopyComplete
 /Users/evamaina/Projects/EmployeeLibrary/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.dll
 /Users/evamaina/Projects/EmployeeLibrary/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.pdb
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/bin/Debug/netcoreapp2.2/TestEmployees.deps.json
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/bin/Debug/netcoreapp2.2/TestEmployees.runtimeconfig.json
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/bin/Debug/netcoreapp2.2/TestEmployees.runtimeconfig.dev.json
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/bin/Debug/netcoreapp2.2/TestEmployees.dll
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/bin/Debug/netcoreapp2.2/TestEmployees.pdb
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/bin/Debug/netcoreapp2.2/EmployeeLibrary.dll
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/bin/Debug/netcoreapp2.2/EmployeeLibrary.pdb
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.csproj.AssemblyReference.cache
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.AssemblyInfoInputs.cache
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.AssemblyInfo.cs
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.csproj.CoreCompileInputs.cache
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.csproj.CopyComplete
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.dll
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.pdb
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/obj/Debug/netcoreapp2.2/TestEmployees.genruntimeconfig.cache

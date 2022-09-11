@@ -179,32 +179,29 @@
     ]
   },
   "packageFolders": {
-    "/Users/evamaina/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/mouriceoronje/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/EmployeeLibrary.csproj",
+      "projectUniqueName": "/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/EmployeeLibrary/EmployeeLibrary.csproj",
       "projectName": "EmployeeLibrary",
-      "projectPath": "/Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/EmployeeLibrary.csproj",
-      "packagesPath": "/Users/evamaina/.nuget/packages/",
-      "outputPath": "/Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/obj/",
+      "projectPath": "/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/EmployeeLibrary/EmployeeLibrary.csproj",
+      "packagesPath": "/Users/mouriceoronje/.nuget/packages/",
+      "outputPath": "/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/EmployeeLibrary/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/evamaina/.nuget/NuGet/NuGet.Config"
+        "/Users/mouriceoronje/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.jsonon": {}
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -216,6 +213,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "NETStandard.Library": {
             "suppressParent": "All",
@@ -225,10 +223,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

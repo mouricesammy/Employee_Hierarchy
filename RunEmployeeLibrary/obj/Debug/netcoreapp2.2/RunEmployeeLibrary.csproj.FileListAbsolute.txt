@@ -11,3 +11,19 @@
 /Users/evamaina/Projects/EmployeeLibrary/RunEmployeeLibrary/obj/Debug/netcoreapp2.2/RunEmployeeLibrary.csproj.CopyComplete
 /Users/evamaina/Projects/EmployeeLibrary/RunEmployeeLibrary/obj/Debug/netcoreapp2.2/RunEmployeeLibrary.dll
 /Users/evamaina/Projects/EmployeeLibrary/RunEmployeeLibrary/obj/Debug/netcoreapp2.2/RunEmployeeLibrary.pdb
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/bin/Debug/netcoreapp2.2/RunEmployeeLibrary.deps.json
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/bin/Debug/netcoreapp2.2/RunEmployeeLibrary.runtimeconfig.json
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/bin/Debug/netcoreapp2.2/RunEmployeeLibrary.runtimeconfig.dev.json
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/bin/Debug/netcoreapp2.2/RunEmployeeLibrary.dll
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/bin/Debug/netcoreapp2.2/RunEmployeeLibrary.pdb
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/bin/Debug/netcoreapp2.2/EmployeeLibrary.dll
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/bin/Debug/netcoreapp2.2/EmployeeLibrary.pdb
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/obj/Debug/netcoreapp2.2/RunEmployeeLibrary.csproj.AssemblyReference.cache
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/obj/Debug/netcoreapp2.2/RunEmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/obj/Debug/netcoreapp2.2/RunEmployeeLibrary.AssemblyInfoInputs.cache
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/obj/Debug/netcoreapp2.2/RunEmployeeLibrary.AssemblyInfo.cs
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/obj/Debug/netcoreapp2.2/RunEmployeeLibrary.csproj.CoreCompileInputs.cache
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/obj/Debug/netcoreapp2.2/RunEmployeeLibrary.csproj.CopyComplete
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/obj/Debug/netcoreapp2.2/RunEmployeeLibrary.dll
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/obj/Debug/netcoreapp2.2/RunEmployeeLibrary.pdb
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/obj/Debug/netcoreapp2.2/RunEmployeeLibrary.genruntimeconfig.cache

@@ -7,3 +7,13 @@
 /Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.dll
 /Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.pdb
 /Users/evamaina/Projects/EmployeeLibrary/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.csprojAssemblyReference.cache
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/EmployeeLibrary/bin/Debug/netstandard2.0/EmployeeLibrary.deps.json
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/EmployeeLibrary/bin/Debug/netstandard2.0/EmployeeLibrary.pdb
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.csproj.AssemblyReference.cache
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.AssemblyInfoInputs.cache
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.AssemblyInfo.cs
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.csproj.CoreCompileInputs.cache
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.csproj.CopyComplete
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.dll
+/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/EmployeeLibrary/obj/Debug/netstandard2.0/EmployeeLibrary.pdb

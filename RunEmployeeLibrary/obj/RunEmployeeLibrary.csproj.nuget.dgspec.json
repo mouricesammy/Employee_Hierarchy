@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/evamaina/Projects/EmployeeLibrary/RunEmployeeLibrary/RunEmployeeLibrary.csproj": {}
+    "/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/RunEmployeeLibrary.csproj": {}
   },
   "projects": {
-    "/Users/evamaina/Projects/EmployeeLibrary/RunEmployeeLibrary/RunEmployeeLibrary.csproj": {
+    "/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/RunEmployeeLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/evamaina/Projects/EmployeeLibrary/RunEmployeeLibrary/RunEmployeeLibrary.csproj",
+        "projectUniqueName": "/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/RunEmployeeLibrary.csproj",
         "projectName": "RunEmployeeLibrary",
-        "projectPath": "/Users/evamaina/Projects/EmployeeLibrary/RunEmployeeLibrary/RunEmployeeLibrary.csproj",
-        "packagesPath": "/Users/evamaina/.nuget/packages/",
-        "outputPath": "/Users/evamaina/Projects/EmployeeLibrary/RunEmployeeLibrary/obj/",
+        "projectPath": "/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/RunEmployeeLibrary.csproj",
+        "packagesPath": "/Users/mouriceoronje/.nuget/packages/",
+        "outputPath": "/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/RunEmployeeLibrary/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/evamaina/.config/NuGet/NuGet.Config"
+          "/Users/mouriceoronje/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.jsonon": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -38,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -47,10 +46,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

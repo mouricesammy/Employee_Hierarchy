@@ -5824,32 +5824,29 @@
     ]
   },
   "packageFolders": {
-    "/Users/evamaina/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/mouriceoronje/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/TestEmployees.csproj",
+      "projectUniqueName": "/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/TestEmployees.csproj",
       "projectName": "TestEmployees",
-      "projectPath": "/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/TestEmployees.csproj",
-      "packagesPath": "/Users/evamaina/.nuget/packages/",
-      "outputPath": "/Users/evamaina/Projects/EmployeeLibrary/TestEmployees/obj/",
+      "projectPath": "/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/TestEmployees.csproj",
+      "packagesPath": "/Users/mouriceoronje/.nuget/packages/",
+      "outputPath": "/Users/mouriceoronje/Projects/personal/untitled folder/Employee-Hierarchy/TestEmployees/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/evamaina/.nuget/NuGet/NuGet.Config"
+        "/Users/mouriceoronje/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.jsonon": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "projectReferences": {}
         }
       },
@@ -5861,6 +5858,7 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
+        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",
@@ -5882,10 +5880,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
